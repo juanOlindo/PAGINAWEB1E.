@@ -8,6 +8,7 @@ color: red;
 }
      header{
        border-bottom: solid 2px rgb(42, 122, 228);
-
+        padding: 20px;
+        front-size: 32px;
        
      }
